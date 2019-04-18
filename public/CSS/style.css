@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu|Nunito+Sans');
+
+#mainJumbo {
+  background-color: #3085b3;
+  box-shadow: 2px 2px 20px #20b3a9;
+}
+
+#mainIcon {
+  color: #5fc8ff;
+}
+
+#mainText {
+  color: #20b3a9 !important;
+  font-weight: 500;
+  font-family: 'Ubuntu', sans-serif;
+}
+.startSurvey {
+  background-color: #b33632;
+  color: #5fc8ff;
+}
+
+#mainBodyText {
+  font-family: 'Nunito Sans', sans-serif;
+  color: #20b3a9;
+}
+
+#top_info {
+  font-weight: 500;
+}
+
+h4 {
+  font-family: 'Nunito Sans', sans-serif;
+}
+#uImg {
+  max-width: 400px;
+}
